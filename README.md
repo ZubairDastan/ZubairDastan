@@ -29,6 +29,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZubairDastan&theme=radical)](https://git.io/streak-stats) 
 ![ZubairHasan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairDastan&theme=tokyonight&layout=compact)
 
-<p align="center">
-  <img src="https://github.com/ZubairDastan/ZubairDastan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
