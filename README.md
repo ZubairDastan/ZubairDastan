@@ -1,6 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-## I am Zubair Hasan. A passionate SQA Engineer
+## I am Zubair Hasan. A passionate SQA Engineer.
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software test solutions and quick hacks.\
@@ -9,6 +10,9 @@
 ✍️ &nbsp;In my free time, I watch Tech Vlogs and reading books as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for SQA related descission, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at zubairhasan007@gmail.com! I'll try to respond as soon as I can.
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Quality+Assurance+Engineer;With+1+Years+of+Experience;Passionate+about+Software+Architecture)](https://git.io/typing-svg)
+<br> [![Profile views](https://komarev.com/ghpvc/?username=ZubairDastan&label=Profile%20views)](https://github.com/ZubairDastan)
 <br>
 <br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
