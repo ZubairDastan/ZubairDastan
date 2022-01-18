@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software test solutions and quick hacks.\
 🎓 &nbsp;I'm currently employed at Rokomari.com as a SQA Engineer.\
 🌱 &nbsp;I'm on track for learning more about Test Automation, Systems Design.\
-✍️ &nbsp;In my free time, I watch Tech Vlogs and reading books as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I watch Tech Vlogs and read books as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for SQA related descission, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at zubairhasan007@gmail.com! I'll try to respond as soon as I can.
 <br>
