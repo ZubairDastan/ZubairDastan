@@ -19,7 +19,7 @@
 <p align="center">
 <p>
 <a href="https://www.hackerrank.com/zubairhasan007" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackRank_Zubair" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/zubair-hasan-528955177" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="LIn_Zubair" height="40" width="40" /></a>  
+<a href="https://www.linkedin.com/in/zubair-hasan-528955177" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="LIn_Zubair" height="40" width="40" /></a>  
 <a href="https://www.instagram.com/zubair_dastan/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_Zubair" height="40" width="40" /></a>
 <a href="https://www.facebook.com/zubair.dastan/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_Zubair" height="40" width="40" /></a>
 </p>
