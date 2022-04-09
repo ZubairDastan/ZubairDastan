@@ -19,8 +19,8 @@
 <p align="center">
 <p>
 <a href="https://www.hackerrank.com/zubairhasan007" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackRank_Zubair" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/zubair-hasan-528955177" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="LIn_Zubair" height="40" width="40" /></a>  
-<a href="https://www.instagram.com/zubair_dastan/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_Zubair" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/zubair-hasan-528955177" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LIn_Zubair" height="40" width="40" /></a>  
+<a href="https://www.instagram.com/zubair_dastan/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_1280.png" alt="insta_Zubair" height="40" width="40" /></a>
 <a href="https://www.facebook.com/zubair.dastan/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_Zubair" height="40" width="40" /></a>
 </p>
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
