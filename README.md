@@ -11,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for SQA related descission, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at zubairhasan007@gmail.com! I'll try to respond as soon as I can.
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Quality+Assurance+Engineer;With+1+Years+of+Experience;Passionate+about+Software+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Quality+Assurance+Engineer;With+3+Years+of+Experience;Passionate+about+Software+Architecture)](https://git.io/typing-svg)
 <br> [![Profile views](https://komarev.com/ghpvc/?username=ZubairDastan&label=Profile%20views)](https://github.com/ZubairDastan)
 <br>
 <br>
