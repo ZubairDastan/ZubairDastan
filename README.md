@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software test solutions and quick hacks.\
-🎓 &nbsp;I'm currently employed at Rokomari.com as a SQA Engineer.\
+🎓 &nbsp;I'm currently employed at BYSL Global Tecknologies Ltd as a SQA Engineer.\
 🌱 &nbsp;I'm on track for learning more about Test Automation, Systems Design.\
 ✍️ &nbsp;In my free time, I watch Tech Vlogs and read books as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for SQA related descission, or just for some interesting discussion.\
